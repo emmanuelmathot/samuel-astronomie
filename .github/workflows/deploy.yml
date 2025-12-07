@@ -47,6 +47,8 @@ jobs:
       run: |
         cd app
         npm run build
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     - name: Copy app to Slidev dist
       run: |

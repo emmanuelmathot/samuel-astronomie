@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/samuel-astronomie/app/',
+      base: process.env.NODE_ENV === 'production' ? '/samuel-astronomie/app/' : '/app/',
       server: {
         port: 3000,
         host: '0.0.0.0',
