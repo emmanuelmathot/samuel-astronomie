@@ -38,6 +38,21 @@ jobs:
       env:
         NODE_ENV: production
 
+    - name: Install app dependencies
+      run: |
+        cd app
+        npm ci
+
+    - name: Build React app
+      run: |
+        cd app
+        npm run build
+
+    - name: Copy app to Slidev dist
+      run: |
+        mkdir -p dist/app
+        cp -r app/dist/* dist/app/
+
     - name: Setup Pages
       uses: actions/configure-pages@v4
 
