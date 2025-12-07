@@ -1,6 +1,7 @@
 
 import { GoogleGenAI } from "@google/genai";
 import { presentationContent } from '../data/presentationContent';
+import { wikipediaContent } from '../data/wikipediaContent';
 
 const API_KEY = process.env.API_KEY;
 
@@ -25,6 +26,7 @@ export const askAssistant = async (question: string): Promise<string> => {
     Voici le contenu de la présentation :
     ---
     ${presentationContent}
+    ${wikipediaContent}
     ---
   `;
 
