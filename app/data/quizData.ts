@@ -39,7 +39,7 @@ export const quizQuestions: QuizQuestion[] = [
     question: "Quelle est l'une des découvertes majeures du télescope spatial Hubble ?",
     options: [
       "La découverte de Pluton",
-      "La confirmation que la Terre est plate",
+      "La confirmation que la Terre est ronde",
       "La détermination de l'âge de l'univers (13,8 milliards d'années)",
       "La première photo de la Lune",
     ],
