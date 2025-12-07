@@ -1,43 +1,5 @@
 
 export const wikipediaContent = `
-{{Titre en italique|en}}
-{{Voir homonymes|Hubble|HST}}
-{{Infobox Engin spatial
- | nom                  = {{anglais|Hubble}}
- | image                = HST-SM4.jpeg
- | domaine              = [[Astronomie]]
- | statut               = Opérationnel
- | légende              = Photo du télescope {{anglais|Hubble}} durant la mission {{lnobr|STS-125}} (2009).
- | organisation         = [[National Aeronautics and Space Administration|NASA]] et [[Agence spatiale européenne|ESA]] (15 %)
- | orbite               = [[Orbite terrestre basse|Basse]]
- | altitude             = 515-618 km
- | inclinaison          = {{angle|28.5}}
- | orbites              = {{référence nécessaire|~ {{formatnum:168400}} au {{date-|14 mars 2021}}}}
- | période              = {{unité|96|à=97|min}}
- | masse                = {{unité|11000|kg}}
- | lancement            = {{date-|24|avril|1990|âge=oui}}
- | désorbitage          = 2030-2040
- | nssdc                = 1990-037B
- | programme            = [[Programme des Grands Observatoires|Grands observatoires]]
- | site                 = [http://hubblesite.org/ www.hubblesite.org/]
- | télescope_type       = [[Télescope Ritchey-Chrétien|Ritchey-Chrétien]]
- | télescope_diamètre   = {{unité|2.40|m}}
- | télescope_focale     = {{unité|57.60|m}}
- | télescope_longueur_d'onde = [[Spectre visible|Visible]], [[ultraviolet]], proche [[infrarouge]] ({{unité|115-2500|nm}}<ref>https://www.nasa.gov/mission_pages/hubble/story/index.html.</ref>)
- | instrument1_nom      = [[Near Infrared Camera and Multi-Object Spectrometer|NICMOS]]
- | instrument1_type     = Caméra et spectromètre infrarouge
- | instrument2_nom      = [[Advanced Camera for Surveys|ACS]]
- | instrument2_type     = Caméra
- | instrument3_nom      = [[Wide Field Camera 3|WFC3]]
- | instrument3_type     = Caméra à large champ
- | instrument4_nom      = {{lien|lang=en|fr=Space Telescope Imaging Spectrograph|texte=STIS|trad=Space Telescope Imaging Spectrograph}}
- | instrument4_type     = Spectromètre et caméra
- | instrument5_nom      = {{lien|lang=en|fr=Cosmic Origins Spectrograph|texte=COS|trad=Cosmic Origins Spectrograph}}
- | instrument5_type     = Spectromètre ultraviolet
-}}
-
-'''{{anglais|Hubble}}''' ({{en langue|en|Hubble Space Telescope}}, en abrégé '''{{anglais|HST}}''' ou, rarement en [[français]], '''TSH'''<ref>https://www.castormission.org/copy-of-about.</ref>) est un [[télescope spatial]] conçu par la [[National Aeronautics and Space Administration|NASA]] avec une participation de l'[[Agence spatiale européenne]], opérationnel depuis 1990, et orbitant à {{unité|515|km}} d'altitude environ<ref>{{Lien web | langue = en | titre = Hubble by the Numbers - NASA Science | jour = 18 | mois = mars | année = 2024 | url = https://science.nasa.gov/mission/hubble/overview/hubble-by-the-numbers/ | site = science.nasa.gov | consulté le = 31 juillet 2024}}.</ref>. Son miroir de grande taille ({{unité|2.4|m}} de diamètre), qui lui permet de restituer des images avec une [[Pouvoir de résolution|résolution angulaire]] inférieure à {{unité|0.1|[[Sous-unités du degré|seconde d'arc]]}}, ainsi que sa capacité à observer à l'aide d'imageurs et de spectroscopes dans l'[[infrarouge]] proche et l'[[ultraviolet]], lui permettent de surclasser, pour de nombreux types d'observation, les instruments au sol les plus puissants, handicapés par la présence de l'atmosphère terrestre. Les données collectées par ''Hubble'' ont contribué à des découvertes de grande portée dans le domaine de l'[[astrophysique]], telles que la mesure du [[taux d'expansion (cosmologie)|taux d'expansion]] de l'Univers, la confirmation de la présence de [[trou noir supermassif|trous noirs supermassifs]] au centre des [[galaxie]]s spirales, ou l'existence de la [[matière noire]] et de l'[[énergie noire]].
-
 Le développement du télescope ''Hubble'', qui tient son nom de l'[[astronome]] [[Edwin Hubble]], démarre au début des [[années 1970]]. Cependant, des problèmes de financement, de mise au point technique et la [[Accident de la navette spatiale Challenger|destruction de la navette spatiale ''Challenger'']] repoussent son lancement jusqu'en 1990. Une [[aberration (optique)|aberration optique]] particulièrement grave est découverte peu après qu'il a été placé sur son [[orbite terrestre basse]] à {{unité|600|km}} d'altitude. Dès le départ, le télescope spatial avait été conçu pour permettre des opérations de maintenance par des missions des [[navette spatiale américaine|navettes spatiales]]. La première de ces missions, en 1993, est mise à profit pour corriger l'anomalie de sa partie optique. Quatre autres missions, en 1997, 1999, 2002 et 2009, permettent de moderniser les cinq instruments scientifiques et remplacer certains équipements défaillants ou devenus obsolètes. La dernière mission de maintenance, réalisée en 2009 par la mission [[STS-125]], immédiatement avant le retrait définitif des navettes spatiales, doit permettre au télescope ''Hubble'' de fonctionner quelques années de plus, probablement jusqu'en 2030. Pour les observations dans l'infrarouge, il est remplacé en 2022 par le [[James-Webb (télescope spatial)|télescope spatial ''James-Webb'']], aux capacités supérieures.
 
 == Historique ==
@@ -518,5 +480,410 @@ Fichier:Hubble Sees a Horsehead of a Different Color.jpg|{{Numéro avec majuscul
 
 [[Catégorie:Hubble (télescope spatial)|*]]
 [[Catégorie:Exploration de 67P/Tchourioumov-Guérassimenko]]
+
+[[Image:Grande Lunette Nice.jpg|thumb|La grande lunette de l'[[Observatoire de Nice]].]]
+
+Une '''lunette astronomique''' ou lunette de [[Johannes Kepler|Kepler]] est un [[instrument d'optique]] composé de [[lentille (optique)|lentilles]] et permettant d'augmenter la [[luminosité]] et la [[taille apparente]] des [[objet céleste|objets du ciel]] lors de leur observation. Équipée d'un [[redresseur terrestre|redresseur d'image]], elle se comporte alors en '''[[longue-vue|lunette d'approche]]'''.
+
+La lunette astronomique a probablement été inventé par l'astronome ottoman [[Taqi al-Din|Taqi al Din]], peut être vers 1574. En effet dans son ouvrage Kitāb Nūr, il donne une description assez précis de son invention : ''« J'ai fabriqué un cristal (billawr) doté de deux lentilles permettant de visualiser en détail les objets à longue distance. En regardant par l'un de ses bords, on peut voir la voile du navire au loin ».''<ref>{{Lien web |titre=Taqi al Din et la science de l'optique |url=https://muslimheritage.com/taqi-al-din-sci-optics-light-vision/}}</ref>
+
+[[Giambattista della Porta]] en mentionne le principe dans son ouvrage ''[[La Magie naturelle]]'' (1589)<ref>G. Della Porta ''Magia Naturalis'' XVII, 10</ref>:
+
+{{début citation bloc}}Les lentilles concaves font voir très clairement les choses lointaines, les convexes celles qui sont proches ; tu pourras profiter de ceci pour la commodité de la vue. Avec le verre concave, tu vois les choses lointaines petites mais nettes, avec le verre convexe tu vois les objets proches plus grands, mais flous. Si tu savais correctement combiner l'un et l'autre, tu verrais agrandies et nettes les choses lointaines et proches{{fin citation bloc}}
+
+Le livre de Della Porta a sans doute mis sur la voie des artisans, mais le contexte laisse penser que Della Porta pensait avant tout à la correction visuelle, le principe de combiner lentilles convexes et concaves à cet effet étant d'ailleurs connu depuis l'Antiquité<ref name="sn">Fernand Hallyn ''Sidereus Nuncius'' Le Seuil, 1992, {{p.|14-16}}.</ref>. Rien ne prouve que Della Porta ait vu, et encore moins fabriqué, une lunette grossissante. Cependant, Della Porta revendiquera vingt ans plus tard la paternité de l'invention dans une lettre à [[Federico Cesi]]<ref name="sn"/>.
+
+À cette époque, plusieurs personnes exhibent cet instrument. [[Hans Lippershey]] fut le premier à faire une démonstration concrète d'une lunette d'approche de grossissement trois à la fin du mois de septembre 1608{{référence souhaitée}}. [[Zacharias Janssen]] aurait fabriqué un modèle dès 1604 d'après un modèle rudimentaire italien de 1590<ref name="sn"/> et en aurait vendu à la foire d'automne de Francfort en septembre 1608{{référence souhaitée}}. [[Jacob Metius]]<ref name="sn"/> est soutenu par [[René Descartes|Descartes]], qui parle de cette invention au début de sa ''Dioptrique''<ref>Descartes, ''Dioptrique''. Œuvres complètes Adams & Tannery, 1902, tome 6, {{p.|81-82}}.</ref> :
+{{début citation bloc}}Mais, à la honte de nos sciences, cette invention, si utile et si admirable, n'a premièrement été trouvée que par l'expérience et la fortune. Il y a environ trente ans, qu'un nommé Jacob Metius, de la ville d'Alkmaar en Hollande, homme qui n'avait jamais étudié, bien qu'il eût un père et un frère qui ont fait profession des mathématiques, mais qui prenait particulièrement plaisir à faire des miroirs et verres brûlants, en composant même l'hiver avec de la glace, ainsi que l'expérience a montré qu'on en peut faire, ayant à cette occasion plusieurs verres de diverses formes, s'avisa par bonheur de regarder au travers de deux, dont l'un était un peu plus épais au milieu qu'aux extrémités, et l'autre au contraire beaucoup plus épais aux extrémités qu'au milieu, et il les appliqua si heureusement aux deux bouts d'un tuyau, que la première des lunettes dont nous parlons, en fut composée.{{fin citation bloc}}
+
+Dès que la lunette d'approche fut connue et commença à se répandre, plusieurs personnes, dont [[Thomas Harriot]] et [[Christoph Scheiner]], la tournèrent vers le ciel au début de 1609 pour observer les objets célestes. Mais c'est [[Galilée (savant)|Galilée]] qui, à partir d'{{date-|août 1609}}<ref>la première fois officiellement le 21 au campanile, devant le Doge Leonardo Donato et les membres du Sénat</ref> établit véritablement la lunette d'approche comme instrument d'observation astronomique par ses observations célestes et surtout par le regard neuf qu'il portait sur le ciel et les objets qu'il observait : il s'étonnait des phénomènes qu'il voyait et il les étudiait. Il construisait ses propres lunettes et leur donna d'abord un grossissement de six au lieu de trois, pour le porter progressivement à 20 puis à 30.
+
+Sa première représentation est de [[Jan Brueghel l'Ancien]] ; l'archiduc [[Albert de Habsbourg (1559-1621)|Albert de Habsbourg]] tient l'instrument dans le tableau ''Paysage sur le château de Mariemont''.
+
+==Composition==
+[[Image:SmallAltAzMount.jpg|thumb|Lunette astronomique sur une monture altazimutale.]]
+Une lunette est composée d'un [[Objectif optique|objectif]] et d'un [[oculaire]] disposés de part et d'autre d'un tube fermé. Le tube peut être fixe ou télescopique comme dans le cas des longues-vues de marine. L'oculaire se situe, comme l'indique son nom, du côté de l'œil, et il est de petite dimension. L'objectif se situe de l'autre côté, et est généralement de plus grande dimension que l'oculaire.
+
+Ces premières lunettes ''d'approche'', terrestre ou astronomique, ont possédé un objectif convexe et un oculaire concave (voir description de [[René Descartes]] plus haut) par le hasard de leur invention par des lunetiers. Les plus récentes (voir description plus bas) possèdent objectif et oculaire convexes.
+
+Les deux systèmes conservent chacun leurs avantages. L'oculaire concave donne une image droite permettant l'usage en longue-vue terrestre et un raccourcissement de la longueur du tube par rapport à la [[Distance focale|focale]] de l'objectif. L'assemblage de deux de ces lunettes de petite taille crée l'appareil dit ''jumelles de Galilée'' (utilisées au théâtre vu les faibles performances). Alors que pour l'oculaire convexe, on obtient un retournement de l'image (haut et bas) et un allongement par rapport à la longueur de la focale de l'objectif. Cela ne gène pas l'usage comme lunette astronomique (ni haut ni bas dans le ciel, monture mécanique pour supporter le système). Par contre, l'usage marin ou terrestre a imposé un tube télescopique et un système optique de redressement de l'image, dit ''véhicule'' composé d'un [[Doublet (optique)|doublet]] ou d'un nombre pair de prismes (qui, pliés, raccourcissent l'encombrement) dans le cas de la lunette à prismes ou des jumelles dites de marine.
+[[Image:Lunettefr.png|thumb|upright=2.5|center|Schéma de principe d'une lunette astronomique.]]
+[[Image:Kepler EQ.svg|thumb|Lunette astronomique équipée d'un chercheur et d'un appareil photographique à grande focale sur le même axe.]]
+[[Image:ApoRef.png|thumb|Lunette apochromatique.]]
+On peut faire une lunette simple avec deux [[loupe]]s. Une grande, à foyer assez lointain servant d'objectif, et une petite, à foyer rapproché servant d'oculaire. En effet, l'objectif et l'oculaire sont deux systèmes optiques convergents, c'est-à-dire qu'ils concentrent ([[Focalisation (optique)|focalisent]]) les rayons lumineux, à la manière d'une loupe. Ces deux systèmes convergents ont comme caractéristiques principales le diamètre et la [[distance focale]]. La distance focale est la distance entre le centre du système optique convergent (par exemple le centre de la lentille d'une loupe) et le foyer (le point où des rayons lumineux provenant de l'infini convergent).
+
+Les lunettes modernes ont toutes des objectifs et des oculaires composés de plusieurs lentilles. En effet, une lentille simple n'a une qualité acceptable que sous certaines conditions. On peut corriger ou diminuer certains défauts en appariant plusieurs lentilles ayant des verres d'indice différent, on crée ainsi des [[Doublet achromatique|doublets achromatiques]] ou des [[Triplet apochromatique|triplets apochromatiques]] qui sont exempts de défauts sur des plages plus grandes.
+
+Le [[grossissement optique|grossissement]] de la lunette est donné par : <math>G=\frac{\alpha'}{\alpha} </math> où <math>\alpha' </math> est l'angle sous lequel on voit l'image finale au travers de la lunette et <math>\alpha </math> est l'angle sous lequel on voit l'objet à l'œil nu.
+
+Pour l'observation des objets célestes, on peut considérer que les angles sont petits et ainsi on a (pour de petits angles) : <math> \tan \alpha \simeq \sin \alpha \simeq \alpha (rad)</math>
+
+Alors, le grossissement de la lunette est calculé en divisant la distance focale de l'objectif par celle de l'oculaire.
+
+== Lunette astronomique afocale ==
+[[Image:Lunette astronomique simplifiee et oeil nu.svg|thumb|Principe optique d'une lunette astronomique afocale ; par rapport à l'œil nu (en haut), la lunette collecte plus de lumière et amplifie l'angle d'incidence sur l'œil, l'objet est donc vu plus grand et plus lumineux.]]
+
+Une lunette astronomique est dite [[système afocal|afocale]] lorsque le foyer image de l'objectif est à la même position que le foyer objet de l'oculaire. L'objet observé se trouvant à l'infini son image se trouve dans le plan focal image de l'objectif. Or le plan focal image de l'objectif est aussi le plan focal objet de l'oculaire, l'image fournie par celui-ci se trouve à l'infini. Un œil humain parfait étant fait pour observer un objet situé à l'infini, il n'accommode pas lorsqu'il observe une image à travers une lunette astronomique afocale (les myopes et les hypermétropes compensent par le réglage oculaire).
+
+== Lunette équatoriale coudée ==
+Les lunettes [[Monture équatoriale|équatoriales]] coudées sont des modèles particuliers de grande lunette astronomique mis au point en [[1871 en science|1871]] par l'astronome [[Maurice Lœwy]]. Ce type d'instrument devait permettre de construire de grandes lunettes sans avoir les inconvénients liés à la flexion des longs tubes en ajoutant un point d'appui en son centre. Cependant, il fallait donc ajouter deux miroirs au dispositif (le faisceau optique forme deux angles droits avant d'arriver dans l’oculaire), ce qui pouvait nuire à la qualité des images. En revanche, un des avantages non négligeables des lunettes équatoriales coudées était que l'observateur était immobile et pouvait donc se trouver dans un bâtiment chauffé<ref>{{article|langue=|auteur1=[[Maurice Lœwy]]|titre=Sur un nouvel instrument équatorial|périodique=Comptes rendus de l'Académie des Sciences|volume=|numéro=|jour=|mois=|année=1871|pages=851-853|lire en ligne=}}.</ref>.
+
+En tout, seulement sept lunettes équatoriales ont été construites dans le monde : deux à [[Paris]], une à [[Lyon]], une à [[Besançon]], une à [[Nice]], une à [[Alger]] et une à [[Vienne (Autriche)|Vienne]]. Celle de l'[[observatoire de Lyon]] est la dernière à encore fonctionner dans son état d'origine.
+
+== Lunette et télescope ==
+Un [[télescope]] se différencie d'une lunette astronomique :
+* la ''lunette astronomique'' a un objectif composé d'un ensemble de lentilles
+* le ''télescope'' a un objectif-[[miroir]] comme composant essentiel
+
+Il faut noter le risque de confusion dans l'utilisation et la traduction du mot ''telescope'', particulièrement lors de la consultation de [[documentation]]s en langue anglaise. En effet, dans cette langue, le mot [[Faux-ami|télescope]] est utilisé tant pour la lunette astronomique (on parle alors de ''{{lang|en|texte=refracting telescope}}'') que pour le télescope (on parle de ''{{lang|en|texte=reflecting telescope}}'').
+
+Le télescope présente certains avantages par rapport à la lunette<ref>Richard Taillet, "Optique géométrique: MémentoSciences, Ce qu’il faut vraiment retenir ! Premier cycle universitaire – Prépas", De Boeck Supérieur, 2008</ref> :
+* il est beaucoup plus facile de fabriquer un grand miroir qu’une grande lentille
+* la qualité de l'image fournie par un télescope est meilleure que celle fournie par une lunette, étant notamment dépourvue d'[[aberration chromatique|aberrations chromatiques]]
+* à performance égale, le télescope est moins encombrant que la lunette, et donc est plus léger et plus facile à manier que celle-ci
+
+Les amateurs constructeurs atteignent plus facilement la réalisation d'un miroir de moyennes dimensions (autour de {{unité|200|mm}}){{refnec}} et l'instrument des passionnés non professionnels est, par conséquent, le télescope.
+
+== Notes et références ==
+{{Références}}
+
+== Articles connexes ==
+{{Autres projets|commons=Category:Refracting telescopes}}
+* [[Liste de fabricants d'instruments astronomiques]]
+* [[Liste des plus grandes lunettes astronomiques]]
+* [[Grande lunette de l'exposition universelle de Paris 1900]]
+* Le [[télescope]], instrument différent dans sa conception mais de même destination.
+
+{{Palette|Systèmes optiques}}
+{{Portail|astronomie|optique}}
+
+[[Catégorie:Instrument astronomique]]
+[[Catégorie:Instrument optique]]
+[[Catégorie:Invention du XVIIe siècle]]
+
+
+{{voir homonymes}}
+{{Infobox Télescope
+| image= OHP T193 Pano.jpg
+| upright=1.2
+| légende=Le télescope de {{Unité|193|cm}} de l'[[observatoire de Haute-Provence]].
+}}
+
+Un '''télescope''' est un [[instrument d'optique]] permettant d'augmenter la luminosité ainsi que la taille apparente des objets à observer. Son rôle de récepteur de lumière est souvent plus important que son [[grossissement optique]], il permet d'apercevoir des [[Objet céleste|objets célestes]] ponctuels difficilement perceptibles ou invisibles à l'[[œil nu]].
+
+Les télescopes sont principalement utilisés en [[astronomie]], car leurs réglages ne les rendent propices qu'aux observations d'objets très éloignés et se déplaçant relativement lentement.
+[[Fichier:Herschel 40 foot.jpg|vignette|Gravure représentant le [[télescope de 40 pieds]] de focale d'[[William Herschel|Herschel]].]]
+[[Image:Hubble Space Telescope (27946391011).jpg|right|vignette|Le [[télescope spatial]] [[Hubble (télescope spatial)|''Hubble'']], en fonctionnement depuis 1990.]]
+
+==Étymologie==
+Le mot télescope vient du [[Grec ancien|grec]] {{langue|grc|τηλε}} (''tele'') signifiant « loin » et {{langue|grc|σκοπεῖν}} (''skopein'') signifiant « regarder, voir ». 
+
+== Terminologie ==
+On distingue deux types majeurs de télescopes, selon la manière dont la lumière est focalisée par l'objectif (d'après la terminologie anglaise) :
+* dans un '''télescope réfracteur''' (appelé [[lunette astronomique]] en France, ''{{lang|en|refracting telescope}}'' en anglais), la lumière est focalisée par un « système dioptrique » composé d'un ensemble de lentilles ([[réfraction]]) ;
+* dans un '''télescope réflecteur''' (auquel se restreint l'appellation de télescope en France et dans le présent article, ''{{lang|en|reflecting telescope}}'' en anglais), la lumière est focalisée soit par un système purement réflectif ([[télescope de Newton]]) soit par un système hybride « catadioptrique » composé de miroirs ([[Réflexion (physique)|réflexion]]) et de [[dioptre]]s (par exemple correcteurs).
+
+== Histoire ==
+{{article détaillé|Histoire du télescope}}
+Précurseur du télescope, la [[Longue-vue|lunette d'approche]] aurait été conçue en [[Italie]]<ref>{{chapitre | auteur1 = [[André Danjon]] | auteur2 = [[André Couder]] | titre ouvrage = Lunettes et Télescopes | titre chapitre = 122 - L'invention des lunettes | année = 1935 | pages = 583 à 591 | lire en ligne = https://books.google.fr/books?id=CKe7AAAAIAAJ&q=lunettes+et+telescopes+danjon+couder&dq=lunettes+et+telescopes+danjon+couder&hl=fr&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&redir_esc=y#Lunette%20d'approche%20Italie}}.</ref> vers 1586 très probablement par l’opticien italien [[Giambattista della Porta]], ou peut-être dès les alentours de 1550 par [[Leonard Digges]], en Angleterre<ref>{{Lien web|langue=en|prénom1 = S. T.|nom1 = Editors|titre = Leonard Digges – Inventor of the Telescope?|url =https://princetonastronomy.wordpress.com/2012/11/11/leonard-digges-inventor-of-the-telescope/|consulté le = 2015-08-08}}</ref>. Le télescope apparaît en Hollande où les États Généraux de 1608 reçoivent successivement la demande de brevet de [[Hans Lippershey]] le {{date-|2 octobre}} puis quelques semaines après celle de [[Jacob Metius]] ; le facteur de grossissement de ces télescopes est de 3 à 4<ref>{{Lien web|langue=en|titre = The First Telescopes|url = https://www.aip.org/history/cosmology/tools/tools-first-telescopes.htm|site = American Institute of Physics|date = |consulté le = 8 août 2015}}</ref>. Très vite utilisé pour de multiples usages, notamment en tant que lunette astronomique, le télescope intéresse l’astronome [[italie]]n [[Galilée (savant)|Galilée]] qui s'en procure un exemplaire probablement à l'occasion de la visite en 1609 d'un marchand hollandais venu proposer l'objet à [[République de Venise|la Sérénissime]], puis Galilée perfectionne le modèle parvenant à en augmenter le grossissement d'un facteur 2 à 3<ref>{{Ouvrage|langue = fr|auteur1 = Jean-Baptiste Noé|titre = Le dossier Galilée|lieu = |éditeur = Éditions ADN|année = 2011|pages totales = 139|isbn = 2953632662|lire en ligne = http://www.peuterey-editions.com/20-histoire-le-dossier-galilee.html|passage =41-44}}</ref>. Au sommet du campanile, il fait sensation en offrant une [[lunette astronomique]] de sa confection au Doge [[Leonardo Donato]] et aux membres du Sénat<ref>Le sénateur [[Antonio di Gerolamo Priuli]] en a laissé une description.</ref>. Son confrère allemand [[Johannes Kepler]] en perfectionna le principe, en proposant une formule optique à deux [[lentille optique|lentilles]] convexes.
+
+[[Fichier:NewtonsTelescopeReplica.jpg|thumb|Réplique du télescope de six [[Pouce (unité)|pouces]] qu'[[Isaac Newton]] présenta à la [[Royal Society]] en 1672.]]
+[[Fichier:Acta Eruditorum - I cannocchiali, 1742 – BEIC 13406600.jpg|vignette|Illustration à la critique de ''Construction d'un télescope par réflexion, de M. Newton, ayant seize pouces de longueur...'' publiée sur les ''[[Acta Eruditorum]]'' en 1741.]]
+
+Dans un télescope, un [[Miroir (optique)|miroir]] concave est utilisé pour former l’image. En 1663, le mathématicien écossais [[James Gregory (mathématicien)|James Gregory]] fut le premier à proposer la formule du télescope avec un [[grandissement]] dû au secondaire. Néanmoins, [[Marin Mersenne]] avait, lui, anticipé un système dans lequel le primaire et le secondaire étaient paraboliques, la pupille de sortie était située sur le secondaire, qui servait ainsi d'oculaire. Mais le champ était très faible.
+
+Le mathématicien et physicien anglais [[Isaac Newton]] en construisit une première version en 1668. Dans ce type d’instrument, la lumière réfléchie par le miroir primaire concave doit être amenée à une position d’observation, en dessous ou sur le côté de l’instrument. [[Henry Draper]], l’un des tout premiers astronomes américains à construire un télescope, utilisera deux siècles plus tard un [[prisme (optique)|prisme]] à réflexion totale au lieu du miroir plan du télescope de Newton.
+
+Le pionnier fut le télescope de {{unité|2.53|m}} de diamètre de l’[[observatoire du Mont Wilson]], en [[Californie]] : demeuré célèbre pour avoir servi dans les années 1920 aux travaux de l’astronome américain [[Edwin Hubble]], son utilisation cessa progressivement de 1985 à 1992 sous l’effet de pressions financières.
+
+La conception des [[télescopes Keck]] marque une innovation importante : la surface réfléchissante du miroir de chacun des deux télescopes est composée d’une mosaïque de trente-six miroirs hexagonaux, tous orientables individuellement grâce à trois [[vérin]]s. Elle équivaut à un miroir primaire de {{unité|10|m}} de [[diamètre]], sans en avoir le poids. Des techniques dites d’[[optique active]] permettent de jouer sur les [[vérin]]s pour optimiser le profil de la surface réfléchissante totale.
+
+De son côté, le [[Very Large Telescope]] (VLT) de l'[[European Southern Observatory]] (ESO), est composé de quatre télescopes, possédant chacun un miroir de {{unité|8.20|m}}. Il est situé au [[Chili]], au sommet du [[Cerro Paranal]], à {{unité|2600|m}} d'altitude. Il a été équipé en 2002 du système d'[[optique adaptative]] NAOS lui permettant d'être deux fois plus précis que le [[télescope spatial]] [[Hubble (télescope spatial)|''Hubble'']].
+
+Il est aussi possible aujourd'hui d'utiliser dans le domaine optique les principes de l'[[interférométrie]] pour améliorer la résolution. C'est le principe utilisé par les deux [[Observatoire W. M. Keck|Keck]] et plus encore par le VLT, dont les quatre miroirs, distants au maximum de {{unité|130|m}}, ont la même résolution théorique qu'un seul miroir de {{unité|130|m}} de diamètre. La sensibilité n'est cependant pas améliorée et la technique de l'interférométrie reste utilisée dans des cas très particuliers.
+
+== Éléments constitutifs ==
+Les instruments d'observation astronomique sont généralement constitués de deux [[système optique|systèmes optiques]] complémentaires : l'objectif et l'oculaire. L'oculaire n'est utilisé que pour l'observation visuelle.
+
+=== Objectif ===
+{{Article détaillé|Objectif optique}}
+Dans un télescope l'[[Objectif optique|objectif]] est un miroir concave, le plus souvent parabolique. À la différence des glaces utilisées dans la vie courante, la face réfléchissante est située en avant, de sorte que la lumière ne traverse pas le verre qui sert uniquement de support à une pellicule métallique (le plus souvent en [[aluminium]], mais d'autres métaux peuvent être utilisés, comme l'argent, plus facile à appliquer mais plus fragile, ou l'or, par exemple pour ses propriétés réflectives dans l'infrarouge) de quelques centièmes de [[micromètre]]s. La lumière étant simplement réfléchie et non réfractée, on évite ainsi les [[aberration chromatique|achromatisme]]s des lunettes astronomiques.
+
+La lumière est ensuite [[Focalisation (optique)|focalisée]] en un point appelé [[foyer image]]. Le faisceau convergent peut être renvoyé vers un oculaire à l'aide d'un second miroir qui est plan dans le cas d'un télescope de Newton. Ce petit miroir provoque inévitablement une obstruction, c'est-à-dire une perte de luminosité ce qui n'est pas grave, mais aussi une légère perte de contraste sans gravité si elle ne dépasse pas 20 %.
+
+=== Oculaire ===
+[[Fichier:Mes oculaires.JPG|thumb|Des oculaires.]]
+{{article détaillé|Oculaire}}
+L'[[oculaire]] est la partie de l'instrument qui permet d'agrandir l'image produite par l'objectif au niveau du foyer-image ; un oculaire n'est rien d'autre qu'une [[loupe]] perfectionnée. La mise au point se fait en réglant la distance entre l'objectif et l'oculaire. Un télescope est théoriquement un [[système afocal|instrument afocal]], c'est-à-dire qu'il est possible de faire coïncider le foyer-image du miroir primaire avec le foyer-objet de l'oculaire.
+
+Les oculaires sont interchangeables, ce qui permet de modifier les caractéristiques de l'instrument. Ils sont constitués de [[lentille optique|lentilles]] qui introduisent des [[aberration (optique)|aberrations optiques]] plus ou moins bien corrigées selon les modèles. Le plus courant est aujourd'hui l'oculaire de Plössl, tandis que les oculaires de [[Christian Huygens|Huygens]] et de [[Jesse Ramsden|Ramsden]], composés de deux lentilles, sont aujourd'hui abandonnés. Le diamètre des oculaires est normalisé, il est donc possible de les utiliser indifféremment sur tout type d'instrument, y compris avec une lunette astronomique. Le standard américain de 1" 1/4 ({{unité|31,75 mm}}) est le plus courant, mais les oculaires de 2" ({{unité|50,8 mm}}) sont de plus en plus populaires pour les longues focales, malgré leur prix plus élevé.
+
+=== Monture ===
+La monture est la partie mobile qui supporte et permet d'orienter l'instrument. Il existe deux types de monture.
+
+==== Monture équatoriale ====
+[[Image:200 800 saját.jpg|vignette|redresse|Télescope amateur à monture équatoriale.]]
+{{Article détaillé|monture équatoriale}}
+Le fonctionnement de la [[monture équatoriale]] est calqué sur le [[Système de coordonnées équatoriales|système de coordonnées éponyme]] : la mise en rotation du télescope autour d'un axe fixe permet de sélectionner l'[[ascension droite]] à pointer, et un axe perpendiculaire en rotation autour de cet axe d'ascension droite permet de sélectionner la [[déclinaison (astronomie)|déclinaison]]. Cette monture est rendue pratique en raison de son aptitude naturelle à compenser la rotation de la [[sphère céleste]] : le seul pivotement à vitesse constante de l'instrument autour d'un axe parallèle à l'axe de rotation de la Terre (c'est-à-dire l'axe d'ascension droite) lui permet de suivre un astre durant tout son passage dans le ciel. De ce fait, les grands télescopes historiques des observatoires modernes (le [[Observatoire Palomar|télescope du mont Palomar]] constitue l'un des exemples les plus emblématiques) ont longtemps été montés sur une monture équatoriale. L'une des limites de ce type de monture réside dans sa difficulté de mise en œuvre pour les télescopes lourds ; quelques astuces techniques ont toutefois vu le jour pour pallier les difficultés liées à l'équilibrage du système, mais cela n'a pas suffi à stopper la généralisation des montures azimutales (voir section suivante).
+
+Ce type de monture est toujours très prisé des astronomes amateurs, pour les raisons expliquées précédemment. Du fait de leur vocation universelle et parfois leur caractère nomade, les montures équatoriales sont dotées d'un dispositif de réglage en inclinaison de l'axe d'ascension droite pour s'adapter à la latitude du lieu. Les plus perfectionnées sont dotées d'un viseur polaire, sorte de petite lunette réticulée logée dans l'axe d'ascension droite, ainsi que de réglages fins en azimut et en hauteur, qui permettent d'effectuer une « [[mise en station d'une monture équatoriale|mise en station]] » sur l'[[étoile polaire]] ou l'équivalent austral (souvent la [[Octant (constellation)|constellation de l'Octant]]). La précision de cette mise en station est cependant souvent insuffisante pour permettre la photographie à longue exposition.
+
+==== Monture azimutale ====
+{{Article détaillé|monture azimutale}}
+Constituée d'un axe vertical et d'un axe horizontal, la [[monture azimutale]] est la plus simple à concevoir et à équilibrer. Son défaut majeur réside dans son inaptitude à assurer naturellement le suivi équatorial (sauf s'il était décidé d'installer un télescope à un pôle terrestre) : la composition de mouvements sur les deux axes est nécessaire et les vitesses à imprimer sur chacun des axes sont fortement [[Non-linéarité|non linéaires]]. Le choix de ce type de monture est malgré tout systématique, aujourd'hui, pour les grands télescopes des observatoires nationaux et internationaux : les calculs trigonométriques qui permettent d'assurer le suivi équatorial et la compensation de la rotation de champ qui en résulte sont à la portée de n'importe quel ordinateur, alors qu'une monture équatoriale de taille équivalente serait très coûteuse à mettre au point. Toujours par le calcul, elles permettent également de suivre des objets en déplacement relatif par rapport aux étoiles lointaines, ainsi que de compenser entre autres le déplacement des pôles célestes dû à la [[précession des équinoxes]]. Les [[Observatoire W. M. Keck|télescopes Keck]], le [[Very Large Telescope|VLT]], le [[Large Binocular Telescope|LBT]], [[Subaru (télescope)|Subaru]] et consors, ainsi que des projets comme [[European Extremely Large Telescope|E-ELT]] font tous appel à une monture azimutale.
+
+Pour les astronomes amateurs, la monture azimutale est d'une prise en main facile mais n'est pas adaptée aux observations prolongées ou à fort grossissement. Manuelle, elle n'est généralement utilisée que sur des lunettes astronomiques de petit diamètre. Motorisée, elle peut permettre le suivi d'un astre lorsqu'elle est pilotée par un calculateur intégré ou par un ordinateur. Du fait de la relative facilité de mise en œuvre, c'est sous sa forme azimutale que la monture avec positionnement automatique sur un astre (fonction dite « ''Go to'' ») s'est démocratisée, même si ces systèmes sont également disponibles sur les montures équatoriales de gamme supérieure. Les algorithmes de pilotage de ces montures permettent la mise en station du télescope après pointage d'au minimum deux étoiles de référence en début de séance d'observation. Cette monture est souvent utilisée sur les [[Télescope de type Cassegrain|télescopes de type Cassegrain]] et dérivés, et en particulier est traditionnellement associée aux [[Télescope Schmidt-Cassegrain|Schmidt-Cassegrain]]. Les amateurs de photographies à longue exposition peuvent la plupart du temps munir ces instruments d'un dispositif de compensation de la rotation de champ (« dé-rotateur »), piloté par la monture.
+
+==== L'automatisation à la portée du grand public ====
+L'évolution la plus importante de ces dernières années est la possibilité, pour les montures les plus sophistiquées, d'être munies d'un dispositif autonome de correction des erreurs de suivi d'un astre : ces montures permettent le guidage par un autoguideur ou une [[caméra d'astronomie]] à double capteur, et ce grâce à des algorithmes de traitement d'image qui permettent d'asservir la position de la monture aux dérives constatées à l'image.
+
+On peut par ailleurs noter l'apparition de services d'astrophotographie par Internet (montures pilotées à distance).
+
+=== Accessoires ===
+Outre les éléments déjà décrits et évidemment indispensables à l'utilisation d'un télescope, divers accessoires permettent d'élargir le champ d'utilisation d'un instrument.
+
+==== Chercheur ====
+Ce viseur, une petite lunette généralement réticulée, doit être correctement réglé : il doit être parallèle au tube de l'instrument. Pour le vérifier, visez un objet terrestre le plus éloigné possible comme le toit d'une maison et regardez si le centre du réticule correspond au centre du champ de vision du télescope. Son but est de faciliter le pointage vers une zone du ciel grâce à son champ de vision plus large, ce qui permet de se repérer plus facilement parmi les étoiles.
+
+==== Trépied ====
+Élément dont la grande importance ne doit pas être négligée, le [[trépied]] accueille la monture et supporte l'instrument. Pour cette raison, il doit être adapté pour supporter le poids de l'ensemble. Divers modèles sont disponibles, réalisés en aluminium ou acier, tous visant un même but : équilibrer et stabiliser l'ensemble pour éviter au maximum les risques de bascule de l'instrument (quelle que soit sa position) et absorber les vibrations.
+
+==== Renvoi coudé ====
+Le [[renvoi coudé]] permet une observation plus confortable et évite d'avoir recours à des postures peu confortables durant l'observation, principalement vers le zénith. Son utilisation n'est pas nécessaire avec un télescope du type Newton du fait de sa construction. Les renvois coudés peuvent être constitués d'un miroir ou d'un [[prisme (optique)|prisme]] à réflexion totale.
+
+==== Lentille de Barlow ====
+La [[lentille de Barlow]] allonge la distance focale à laquelle se forme le foyer-image. Elle s'utilise en complément de l'oculaire, dont elle permet de multiplier le grossissement par le coefficient (généralement de deux, parfois de trois) qui la caractérise. Celles vendues avec les télescopes sont souvent de mauvaise qualité. La lentille de Barlow doit être constituée d'un doublet ou triplet achromatique pour ne pas altérer l'image et son utilisation doit être réservée à la Lune et aux planètes. Son intérêt est d'éviter d'utiliser les lentilles de très courtes focales qui sont coûteuses et fragiles (moins de cinq millimètres). Elle sert principalement à rejeter le plan focal résultant en dehors de la monture et de pouvoir y placer, dès lors qu'il est accessible, une plaque photographique, un [[Capteur photographique CCD|capteur CCD]].
+
+==== Réducteur de focale ====
+Cet instrument a l'effet inverse de la lentille de Barlow, c'est-à-dire que le [[réducteur de focale]] raccourcit la distance focale du foyer-image. Pour cela, il doit être placé entre l'objectif et le [[Foyer (optique)|foyer]]. En diminuant le rapport f/D (voir plus loin), il réduit le grandissement. Son utilisation est réservée à la [[photographie au foyer]] (argentique ou numérique) et permet d'augmenter la [[Angle de prise de vue|dimension (angulaire) du champ photographique]], ainsi que la luminosité, ce qui permet de diminuer les temps de pose ou d'accéder à des objets plus diffus.
+
+==== Filtre lunaire ====
+Le [[filtre lunaire]] est utilisé lors de l'observation de la [[Lune]], qui est très lumineuse et peut créer un éblouissement. On utilise donc un [[Filtre (optique)|filtre]] gris neutre, vissé dans l'oculaire.
+
+Le filtre gris neutre lunaire peut être avantageusement remplacé par un filtre constitué de deux [[polariseur]]s : par rotation, on peut modifier la transparence du filtre pour l'optimiser au type d'observation que l'on souhaite faire.
+
+==== Filtre solaire ====
+Le [[filtre solaire]], utilisé pour l'observation visuelle du [[Soleil]], est généralement réalisé avec une feuille de [[Mylar]] ou équivalent, ou encore une vitre de verre spécialement traitée, toujours placée ''devant'' l'instrument et non plus ''dans l'oculaire''. La lumière traversant l'ensemble de l'instrument est ainsi déjà filtrée. Ce type de filtre divise par {{formatnum:100000}} la luminosité. Des filtres un peu moins puissants (densité 3.8 au lieu de 5) sont réservés à la photographie du Soleil. Ces filtres ne restituent pas les couleurs visibles du Soleil.
+
+On distingue les filtres solaires standards de protection, qui permettent d'observer uniquement les [[Tache solaire|taches solaires]], et les filtres solaires [[Hα|H-alpha]], beaucoup plus chers, qui permettent d'observer également les [[Protubérance solaire|protubérances solaires]].
+
+Nota : certains instruments pour débutants sont parfois fournis avec un « filtre solaire » ressemblant au filtre lunaire, mais plus sombre, qui est à proscrire absolument, en raison de son niveau de sécurité insuffisant et des risques de cécité encourus : la chaleur importante atteinte dans le tube optique en raison de la [[luminosité solaire]] peut faire éclater le filtre et ainsi supprimer sa protection.
+
+== Caractéristiques et propriétés ==
+=== Caractéristiques techniques ===
+==== Diamètre ====
+Le diamètre du télescope, c'est-à-dire celui du miroir primaire, est la caractéristique la plus importante de l'instrument car la plupart de ses propriétés optiques en dépendent. En effet, plus celui-ci est grand, et plus il collecte de lumière et permet d'affiner les détails des structures observées en planétaire et en ciel profond des objets peu lumineux et de petite taille apparente. Le diamètre est généralement exprimé en millimètres pour les instruments du commerce, quelquefois en [[pouce (unité)|pouces]] (1" = 25,4 mm).
+
+==== Longueur focale ====
+Il peut s'agir de la [[distance focale|longueur focale]] du miroir primaire, ou de celle de l'instrument complet, ou de celle des oculaires. Pour une lunette ou un télescope Newton, la longueur focale de l'instrument (exprimée en mm) correspond à celle de l'objectif, alors que pour les télescopes Cassegrain (et les formules optiques comparables) la longueur focale ne peut être que le résultat d'un calcul propre à l'association d'un miroir primaire (concave) et d'un [[miroir secondaire]] (convexe). La longueur focale est ce qui permet de grossir les objets observés. Pour un télescope possédant une focale de 1600 mm et un oculaire de 20 mm, le grossissement est de : 80x, selon la formule : ''focale du télescope / focale de l'oculaire''.
+
+==== Rapport f/D ====
+Le rapport f/D est le quotient de la longueur focale de l'objectif et de son diamètre, exprimés dans la même unité. Ce rapport est essentiel pour juger de la capacité de l'instrument à observer ou photographier des objets faiblement lumineux, selon les mêmes règles que pour les [[objectif photographique|objectifs photographiques]].
+
+Pour une même formule optique (voir « Types de télescopes » ci-dessous), un faible rapport f/D donne un instrument plus compact, donc stable et facile à manier et transporter. Néanmoins, la précision de collimation croit comme (D/f)². En d'autres termes, un télescope ouvert à {{nobr|f/D {{=}} 5}} sera deux fois plus difficile à collimater qu'un télescope ouvert à f/D = 7.
+
+Au-delà de f/D = 10, l'instrument a un champ limité ce qui convient à l'observation planétaire, moins à celle des objets diffus du ciel profond. En outre, les oculaires pouvant être de focale plus longue, le recul d'œil et donc le confort sera meilleur.
+
+Pour l'[[astrophotographie]], un f/D faible (4 à 6) sera intéressant pour limiter le temps de pose tout en simplifiant la collimation, surtout si l'on améliore le champ avec un correcteur de Ross à deux lentilles.
+
+=== Propriétés optiques ===
+==== Pouvoir de résolution ====
+Le [[pouvoir de résolution]] est la capacité d'un système optique à révéler les détails ; il mesure le plus petit angle séparant deux points que l'on parvient à voir comme distincts l'un de l'autre (environ une [[minute d'arc]] pour l'[[œil humain]]). Il dépend en principe de la qualité des composants optiques, de leur alignement, des [[aberration (optique)|aberrations]] ([[aberration géométrique|géométriques]] et [[aberration chromatique|chromatiques]]) résiduelles, de la qualité de la [[mise au point (photographie)|mise au point]], du ''grain'' du capteur (c'est-à-dire la taille des [[pixel|pixels]], conditionnant la ''définition'' du capteur), de la [[Turbulence#En_astronomie|turbulence atmosphérique]], et enfin de la [[diffraction]].
+
+La part due à la diffraction dépend essentiellement du diamètre de l'objectif. Le [[Pouvoir_de_résolution#En_termes_d'angle|critère de Rayleigh]] donne par exemple pour le pouvoir séparateur <math>\Delta\theta \simeq 1{,}22 \,\lambda/D</math>, où <math>\Delta\theta</math> est le pouvoir séparateur exprimé en radians, <math>\lambda</math> est la [[longueur d'onde]] dominante (soit 505 nm en [[Domaines_de_vision#Domaine_scotopique|vision scotopique]]) et <math>D</math> le diamètre de l'objectif.
+
+On peut aussi le calculer en divisant 120 par le diamètre de l'instrument exprimé en mm. Par exemple, un télescope de {{unité|114 mm}} de diamètre a un pouvoir séparateur d'environ 1" (120/114), un télescope de {{unité|200 mm}} a un pouvoir séparateur de 0,6". Toutefois, les turbulences atmosphériques, la stabilité de l'instrument et la qualité de l'objectif empêchent souvent d'atteindre la limite théorique de résolution.
+
+On peut déterminer la taille ''T'' des détails que peut résoudre un instrument par la relation :
+:<math> T = \tan\frac P {3600}\times D </math>
+Où D est la distance de l'astre que l'on désire observer, et P (seconde d'arc) le pouvoir de résolution. Par exemple, un télescope de {{unité|200 mm}} (P = 0,6"), pourra discerner sur la Lune ({{nobr|D {{=}} 392000 km}}), des détails de {{unité|1,14 km}} (T).
+
+==== Clarté ====
+La clarté augmente avec le diamètre de l'objectif, elle est théoriquement proportionnelle à la surface de la section du télescope, diminuée de l'obstruction du miroir secondaire. On peut calculer un facteur approximatif en divisant le [[carré (algèbre)|carré]] du diamètre de l'objectif à celui de la [[pupille]] (environ 6 mm dans le noir). Par exemple, si un télescope a un diamètre de {{unité|114 mm}}, il collectera {{nobr|361 fois}} plus de lumière que l'œil (114<sup>2</sup>/6<sup>2</sup>). Toutefois, la luminosité des images dépend aussi du grossissement, sauf pour les étoiles qui fournissent toujours une image ponctuelle. Les astres diffus, tels que les [[nébuleuse]]s ou les [[galaxie]]s, doivent donc être observés avec des oculaires adaptés au rapport f/D pour pouvoir appliquer de faibles grossissements. L'œil humain n'est plus guère utilisé comme « capteur » direct. L'ancienne plaque photographique est remplacée par des capteurs électroniques dont le rendement réel dépasse les 50% pour les modèles les plus performants.
+
+Pour définir la clarté, il faut distinguer le cas d’un instrument dont l’[[objectif optique|objectif]] donne directement une image réelle qui se forme sur un capteur (cas d’un instrument ''objectif'') et le cas d’un instrument qui donne, par l’intermédiaire de son objectif puis d’un [[oculaire]], une image virtuelle destinée à être vue par l’œil de l’observateur (cas d’un instrument ''subjectif'').
+
+===== Clarté d’un instrument objectif =====
+Pour un instrument fournissant une image réelle, la clarté ''C'' est définie par
+<center>''C'' = ''E'' / ''L''</center>
+où
+*''E'' est l’[[éclairement énergétique]] de l’image (en W∙m{{exp|<small>−2</small>}})
+*''L'' est la [[luminance énergétique|luminance]] de l’objet (en W∙m{{exp|<small>−2</small>}}∙sr{{exp|<small>−1</small>}})
+*''C'' est sans dimension (rappelons que le [[stéradian]] est une unité ''fictive'')
+
+On peut montrer que 
+<center>''C'' = {{formule|τ}} {{formule|π}} sin²''u’''</center>
+où 	
+*{{formule|τ}} est le [[facteur de transmission]] de l’instrument,
+*''u’'' est l’angle sous lequel on voit la [[Pupille_(optique)#Pupille_de_sortie|pupille de sortie]] de l’instrument depuis l’image ; ''u’'' augmente avec le diamètre de l’objectif et diminue avec la [[focale]] de l’objectif.
+
+Ainsi, la clarté est en gros proportionnelle au carré du diamètre de l’objectif et inversement proportionnelle au carré de sa focale.
+
+===== Clarté d’un instrument subjectif =====
+Pour un instrument fournissant une image virtuelle visible à travers un oculaire, la clarté ''C'' est définie par
+<center>''C'' = ''F''<small>i</small> / ''F''<small>o</small></center>
+où
+*''F''<small>i</small> est le [[flux lumineux]] (en lumen) atteignant une [[Rétine#Les_photorécepteurs |cellule rétinienne]] quand on regarde l’image à travers l'instrument
+*''F''<small>o</small> est le flux lumineux (en lumen) atteignant une cellule rétinienne quand on regarde l’objet sans l'instrument
+*''C'' est sans dimension
+
+Il faut encore distinguer la clarté ''C'' de l’instrument pour les objets étendus (par exemple, le ciel), et ''C*'' pour les objets ponctuels (par exemple, les étoiles) ; on obtient les résultats résumés par :
+<center>
+{| class="wikitable"
+|-
+!width="30%"|             !!width="30%"|     objet étendu     !!width="30%"|     objet ponctuel    
+|-
+| ''R’'' > ''p'' || ''C'' = {{formule|τ}} ||''C*'' = {{formule|τ}} ''G''<small>i</small>² = ''C'' ''G''<small>i</small>² 
+|-
+| ''R’'' < ''p'' || ''C'' = {{formule|τ}} (''R’''/''p'')² = {{formule|τ}} ''G''<small>e</small>²/''G''<small>i</small>² || ''C*'' = {{formule|τ}} ''G''<small>e</small>² = ''C'' ''G''<small>i</small>² 
+|}
+</center>
+où	
+*''p'' est le rayon de la [[Pupille_(optique)#Pupille_d'entrée|pupille d’entrée]] de l’œil
+*''R’'' est le rayon de la pupille de sortie (ou [[cercle oculaire]]) de l’instrument
+*{{formule|τ}} est le facteur de transmission de l’instrument
+*''G''<small>i</small> est le [[grossissement optique|grossissement intrinsèque]] de l’instrument
+*''G''<small>e</small> est le grossissement équipupillaire qui est par définition obtenu quand ''R’'' = ''p''.
+(on suppose ici qu’on peut faire varier le grossissement de l’instrument, par exemple à l’aide d’oculaires interchangeables ; ''R’'' dépend bien sûr du grossissement : ''R’'' est égal au diamètre de la pupille d’entrée de l'instrument divisé par ''G''<small>i</small>)
+
+On voit que la clarté d’un objet étendu diminue si l’on utilise un grossissement supérieur au grossissement équipupillaire. Pour voir clairement une planète, il ne faut pas dépasser ce grossissement ; mais inversement, il peut être intéressant de le dépasser pour mieux faire ressortir des étoiles sur un fond trop clair.
+
+==== Grossissement ====
+Il correspond au rapport entre le diamètre apparent de l'image à la sortie de l'oculaire et le diamètre apparent de l'objet réel vu par l'œil nu. Il peut se calculer en divisant la longueur focale du miroir primaire par celle de l'oculaire.
+
+Il est précisément limité par la clarté et le pouvoir de résolution :
+* pour augmenter le [[grossissement optique|grossissement]] avec un instrument donné, il faut utiliser un oculaire de petite longueur focale. Les détails se trouvent grossis, mais la clarté en est réduite d'autant, puisqu'on ne va considérer qu'une partie des rayons transmis par l'instrument. Le diamètre de l'objectif est donc un facteur essentiel pour collecter suffisamment de lumière, et atteindre un grossissement élevé ;
+* au-delà de la limite de résolution de l'instrument, le grossissement ne révèle plus d'autres détails que les défauts optiques de l'équipement utilisé.
+
+''A contrario'', un faible grossissement permet d'observer un large champ du ciel, ce qui peut être mis à profit pour l'observation d'objets étendus. Un faible grossissement nécessite un instrument de courte focale : un oculaire grand champ de faible longueur focale permet en effet en théorie de compenser un rapport f/D élevé de l'objectif, mais le phénomène de [[vignettage]], lui, ne peut pas être surmonté : les bords de l'image seront sombres, voire noirs (pour des conseils plus précis, voir [[Observation du ciel]] et [[Astrophotographie]]).
+
+==== Couleur ====
+La plupart des télescopes amateurs semblent transmettre des images peu colorées. Cette limitation est en réalité due uniquement à l'œil, qui n'est pas suffisamment sensible à la faible luminosité transmise par le télescope pour distinguer les couleurs (stimulation des [[bâtonnet]]s, et non des [[cône (biologie)|cônes]]).
+
+En réalité, les télescopes sont assez fidèles pour la restitution de la couleur, et généralement supérieurs aux lunettes astronomiques.
+
+Avec un bon instrument, les couleurs des planètes sont visibles. Concernant les objets lointains (hormis les étoiles dont la couleur est discernable, à l'œil nu pour les plus brillantes), selon les individus, les objets observés et la taille de l'instrument, on peut au mieux discerner la couleur verte, à laquelle l'œil est plus sensible. Les autres couleurs ne sont accessibles qu'avec des télescopes puissants (plusieurs dizaines de centimètres de diamètre).
+
+== Types de télescopes ==
+Un télescope utilise une formule optique qui, par la forme et la disposition des miroirs, cherche à obtenir des images de la meilleure qualité possible, tant en finesse qu'en luminosité, pour révéler le maximum de détails.
+
+On distingue deux types de télescopes : le télescope réflecteur et le [[Objectif catadioptrique|télescope catadioptrique]].
+
+Le premier emploie exclusivement des miroirs pour collecter et focaliser la lumière sur l'oculaire (comme ceux de type Newton), alors que le second type se voit adjoindre une lentille mince, la lame correctrice, disposée à l'avant du tube pour accroître le champ visuel (utilisé notamment par la formule Schmidt-Cassegrain).
+
+===Type grégorien===
+{{Article détaillé|Télescope grégorien}}
+[[File:Gregorian telescope.svg|thumb|400px|Trajet de la lumière dans un télescope grégorien.]]
+
+Ce type de télescope, décrit par l'astronome et mathématicien [[Écosse|écossais]] [[James Gregory (mathématicien)|James Gregory]] dans son livre de 1663 ''Optica Promota'', utilise un miroir secondaire concave qui renvoie l'image à travers un trou dans le miroir primaire. Ceci produit une image droite, utile pour les observations terrestres. Certaines petites [[longue-vue|longues-vues]] sont construites de cette manière. Plusieurs grands télescopes modernes utilisent une configuration de type grégorienne tels que le [[Vatican Advanced Technology Telescope]], les [[télescopes Magellan]], le [[Grand Télescope binoculaire]] et le [[télescope géant Magellan]].
+
+=== Type Newton ===
+[[Fichier:Telescope newton schema.png|thumb|upright|Télescope de Newton.]]
+{{Article détaillé|Télescope de Newton}}
+Ce type de télescope a été mis au point par [[Isaac Newton]]. Il utilise un [[miroir primaire]] [[paraboloïde|parabolique]] et un miroir secondaire plan. C'est le montage le plus ancien, il est utilisé actuellement dans beaucoup de constructions d'amateurs en raison de son coût modique. D'une manière plus générale, c'est le miroir secondaire plan, incliné à 45°, qui caractérise le montage Newton (qui peut être décliné sur d'autres types de télescope) ; il permet de renvoyer l'image focale à 90° de l'axe optique près de l'ouverture du tube, ce qui rend la position d'observation plus confortable. Les miroirs paraboliques génèrent une [[aberration optique]], dite de coma ; elle déforme les étoiles en bord de champ, ce qui réduit le champ utile.
+{{clr}}
+
+=== Type Cassegrain ===
+[[Fichier:Telescope cassegrain principe.png|thumb|upright|Télescope de type Cassegrain.]]
+{{Article détaillé|Télescope de type Cassegrain}}
+Il a été proposé au {{s-|XVII}} par le [[Prêtre catholique|prêtre]] et [[physicien]] français [[Laurent Cassegrain]]. C'est le prototype des systèmes à deux miroirs concave/convexe. Il est composé d'un miroir primaire concave parabolique et d'un miroir secondaire convexe hyperbolique. Dans le montage Cassegrain, contrairement au montage Newton, le miroir primaire est percé en son centre et l'observateur se place derrière celui-ci. Le Cassegrain présente à ouverture identique la même coma que le Newton, ce qui limitera en théorie le champ de netteté. Néanmoins ce type de télescope sera peu ouvert (F/15-F/30) et en pratique cela ne constituera pas une limitation. Compte tenu du primaire qui est parabolique comme le Newton, celui-ci pourra être aussi utilisé en Newton s'il n'est pas trop ouvert (F/4), ce qui en fait un instrument potentiellement généraliste.
+{{clr}}
+
+=== Type Schmidt-Cassegrain ===
+[[Fichier:Telescope schmidt cassegrain complet.png|thumb|Télescope de type Schmidt-Cassegrain.]]
+{{Article détaillé|Télescope Schmidt-Cassegrain}}
+C'est une variante du type Cassegrain, très appréciée parmi les amateurs, qui utilise un [[objectif catadioptrique]]. Ce montage hybride reprend le principe du miroir primaire sphérique en l'associant à une [[lame de Schmidt]] pour corriger l'aberration de sphéricité. C'est un instrument polyvalent et qui fournit des images lumineuses et nettes sur la quasi-totalité du champ.
+
+Comparé au Newton, il présente le grand avantage d'une compacité exemplaire, la longueur du tube étant généralement inférieure à deux fois son diamètre. Il a en revanche l'inconvénient d'être plus coûteux, et de n'être pas très lumineux (rapport f/D de 10 à 12 généralement). La présence du miroir secondaire dans l'axe optique provoque une obstruction voisine de 10 à 14 % en surface, qui réduit le contraste.
+
+=== Type Maksutov-Cassegrain ===
+{{Article détaillé|Télescope de type Maksutov-Cassegrain}}
+C'est une autre variante du Cassegrain correctement corrigé. Ce télescope est inventé en 1941 par l'[[Opticien-lunetier|opticien]] et [[astronome]] [[Union des républiques socialistes soviétiques|soviétique]] [[Dmitri Dmitrievitch Maksoutov|Dmitri Maksoutov]]. Le primaire est concave sphérique, l'aberration étant corrigée par un ménisque (une lentille concave plus épaisse sur les bords), et le secondaire, convexe sphérique, est souvent constitué par la partie centrale du ménisque revêtu d'une pellicule d'aluminium. Le principal avantage de ce type de télescope est sa facilité de réalisation par des moyens industriels, car il est composé uniquement de surfaces sphériques, donc facilement réalisables par des machines et avec des résultats homogènes (ce qui n'est pas toujours le cas avec d'autres types de télescopes). Dans sa version le plus souvent commercialisée, le miroir secondaire est constitué simplement par une [[aluminisation]] du ménisque en son centre, permettant ainsi de limiter encore son coût.
+
+Ce type de télescope se limite à des diamètres modestes, typiquement inférieurs à 200mm, la lentille concave de correction devenant imposante et coûteuse au-delà.
+
+=== Télescope Ritchey-Chrétien ===
+{{Article détaillé|Télescope Ritchey-Chrétien}}
+Le Cassegrain donne une image dépourvue d'aberration sphérique ; le [[George Willis Ritchey|Ritchey]]-[[Henri Chrétien|Chrétien]] inventé vers 1910, grâce à un primaire et un secondaire hyperboliques, donne une image focale de plus dépourvue de coma. Il reste alors l'astigmatisme et la courbure de champ, laquelle s'annule si les courbures primaire et secondaire sont exactement opposées. Compte tenu de ses qualités, c'est la formule optique la plus utilisée dans les observatoires professionnels modernes, formule à laquelle est associé généralement un correcteur de champ en quartz plus ou moins complexe afin de corriger les aberrations résiduelles.
+
+Les quatre télescopes principaux de {{unité|8,2 mètres}} de diamètre du [[Very Large Telescope]] (VLT) utilisent cette configuration optique, de même que le [[Télescope spatial Hubble]].
+
+Quelques fabricants proposent maintenant des instruments de qualité correcte à des prix accessibles pour l'[[astrophotographie]] amateur, pour des diamètres de 200 à 250 mm et un rapport f/D de 8.
+
+Comparé au Schmidt-Cassegrain, il n'apporte pas en revanche d'amélioration sensible pour l'observation visuelle, la meilleure définition en bordure de champ étant ici peu significative, et compensée par un contraste moindre en raison d'une obstruction centrale plus importante (typiquement 25 % de la surface contre 12 % environ).
+
+====Télescope Dall–Kirkham====
+{{Article détaillé|Télescope Dall-Kirkham}}
+[[Fichier:Mewlone 210 Takahashi.jpg|vignette|Télescope de Dall-Kirkham, Mewlone 210 Takahashi]]
+Le télescope '''Dall–Kirkham''', variante du type Cassegrain, a été créé par Horace Dall en 1928 et a pris son nom dans un article publié dans ''[[Scientific American]]'' en 1930 à la suite d'une discussion entre l'astronome amateur Allan Kirkham et Albert G. Ingalls, l'éditeur de la revue à l'époque. Il utilise un miroir primaire concave [[ellipsoïde|elliptique]] et un miroir secondaire convexe [[Miroir sphérique|sphérique]]. Bien que ce système optique soit plus facile à polir qu'un télescope Cassegrain classique ou qu'un Ritchey–Chrétien, il ne corrige pas la coma hors-axe. La [[courbure de champ]] est aussi plus faible que sur un Cassegrain classique. Parce que l'aberration de coma est moins notable avec des rapports [[Ouverture (photographie)|f/D]] élevés, les Dall–Kirkham sont rarement plus rapides que f/15. Aujourd'hui cette [[formule optique]] est principalement vendu par la marque japonaise [[Takahashi seisakusho|Takahashi]], qui l'a démocratiser dans les années 1990.
+
+=== Télescope de Schmidt ===
+[[Fichier:Alfred-Jensch-Teleskop.jpg|thumb|upright|Télescope de Schmidt de {{unité|2 m}} (télescope [[Alfred Jensch|Alfred-Jensch]] à [[Tautenburg]] ([[Thuringe]], [[Allemagne]]) ).]]
+{{Article détaillé|Chambre de Schmidt}}
+La chambre de Schmidt est une chambre photographique de grande ouverture conçue pour l'[[astrophotographie]]. Elle est basée sur un miroir primaire [[Miroir sphérique|sphérique]] et une lame déformée spécialement réalisée pour compenser l'aberration sphérique. La luminosité des prises est exceptionnelle grâce à un rapport f/D très faible (environ 2).
+
+Son rapport d'ouverture la rend parfaitement adaptée pour la photo à grand champ, mais il faut compenser l'image focale qui est une portion de sphère ; elle a longtemps été utilisée pour les études systématiques de grandes portions du ciel. La disponibilité commerciale des capteurs CCD élargit considérablement ses possibilités. Néanmoins, sa longueur qui est égale au rayon de courbure lui fait préférer aujourd'hui d'autres formules optique plus courtes à trois miroirs, donnant un champ plan et non courbé, permettant des coupoles plus petites et plus économiques.
+
+=== Télescopes à miroir liquide ===
+{{Article détaillé|Télescope à miroir liquide}}
+Une variante très particulière est le télescope à miroir liquide : la rotation d'une cuve de [[mercure (chimie)|mercure]] déforme, à cause de la force centrifuge, l'interface liquide-air en une paraboloïde idéale pour un coût relativement réduit. Il ne permet naturellement qu'une observation au [[Télescope zénithal|zénith]]. Ce type de télescope a été imaginé dès 1850 par Ernesto Capocci, et mis en pratique par Henry Key en 1872. Un instrument de ce type avec un miroir de {{unité|6|m}} de diamètre a été mis en route en 2005<ref>Hickson P, ''Les télescopes à miroir liquide'', [[Pour la Science]], {{date-|août 2007}}, p. 70-76.</ref>.
+
+=== Télescopes avec systèmes d'optique adaptative ===
+{{article détaillé|Optique adaptative}}
+Les grands télescopes actuels bénéficient de systèmes d'optique adaptative (OA) pour corriger la turbulence de l'atmosphère. C'est cette turbulence qui, à l'[[œil nu]], provoque le scintillement des étoiles ; or, les télescopes amplifient chaque clignotement. Un système d'OA standard braque un faisceau laser à 90 km dans la haute atmosphère sur la fine couche d'atomes de sodium - laissés par le passage des météorites -, ce qui les fait briller. En observant l'étoile artificielle ainsi créée, le système détermine l'instabilité de l'air et ajuste en conséquence les instruments optiques du télescope plus de mille fois par seconde.
+
+=== Lunette astronomique ===
+{{article détaillé|Lunette astronomique}}
+Distinction est faite en [[français]] entre le télescope (construit sur des principes de [[réflexion (optique)|réflexion]]) et la [[lunette astronomique]] (construite sur des principes de [[réfraction]]), au contraire de l'[[anglais]] (où l'on parle respectivement de ''{{lang|en|reflecting telescope}}'' et de ''{{lang|en|refracting telescope}}''). Celle-ci n'est donc pas à proprement parler considérée comme un type de télescope.
+
+=== Télescope diffractant ===
+{{Article détaillé|Aragoscope}}
+Télescope dont le fonctionnement se base sur la diffraction de la lumière autour d'une obstruction circulaire pour former une image plus loin sur l'axe optique.
+
+=== Télescopes non optiques ===
+Les systèmes destinés à l'observation céleste dans des domaines de [[longueur d'onde]] du [[spectre électromagnétique]] autres que le [[spectre visible]] sont souvent appelés « télescopes » bien qu'ils ne reposent pas nécessairement sur un système optique similaire au principe du télescope. On parle ainsi, par exemple, de [[radiotélescope]]s pour les instruments observant le domaine des [[Onde radio|ondes radio]] et de [[Télescope à imagerie Tcherenkov atmosphérique|télescopes Cherenkov]] pour ceux observant le domaine des [[Astronomie gamma|rayons gamma]] de très haute énergie (> 30 GeV environ) (et des [[rayon cosmique|rayons cosmiques]]) depuis le sol.
+
+Pour certains d'entre eux, le signal observé est fortement voire complètement atténué sur Terre du fait de l'absorption dans ces longueurs d'onde par l'[[atmosphère terrestre]]. C'est par exemple le cas des [[Télescope à rayons X|télescopes à rayons X]] ou à [[Télescope infrarouge|infrarouge]]. Ces instruments sont alors [[télescope spatial|embarqués à bord de satellites]].
+
+On parle également de télescope pour désigner des instruments destinés à l'observation de particules autres que les [[photon]]s, par exemple les [[Observatoire de neutrinos|télescopes à neutrinos]] et les [[Tomographie muonique|télescopes à muons]].
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+ | commons       = Category:Telescopes
+ | commons titre = la catégorie télescope
+ | wiktionary    = télescope
+}}
+[[Fichier:Searching the night sky.jpg|vignette|Chercher des étoiles dans la nuit avec un téléscope en août.]]
+
+=== Bibliographie ===
+* [[Jean Texereau]], ''La construction du télescope d'amateur'', [[Société astronomique de France]], 2004 (première édition 1961), Vuibert.
+* [[André Danjon]] et [[André Couder]], ''Lunettes et télescopes. Théorie - Conditions d'emploi - Description - Réglage'', Librairie Scientifique et technique, Albert Blanchard, Paris, 1935, réédition 1999 {{ISBN|2-85367-027-9}}
+* Jean-Marc Lecleire, ''Réalisez votre télescope'', 1997
+
+=== Articles connexes ===
+{{colonnes|nombre=2|taille=30|
+* [[Liste de fabricants d'instruments astronomiques]]
+* [[Liste d'observatoires astronomiques]]
+* [[Liste des plus grands télescopes optiques]]
+* [[Objectif catadioptrique]]
+* [[Radiotélescope]]
+* [[Lunette astronomique]]
+}}
+
+=== Liens externes ===
+* [https://meilleur-telescope.fr/ Aide pour choisir un télescope]
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+
+{{Palette|Systèmes optiques}}
+{{Portail|astronomie|physique|optique}}
+
+{{DEFAULTSORT:Telescope}}
+[[Catégorie:Télescope|*]]
+
 
 `;
