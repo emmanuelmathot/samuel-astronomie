@@ -15,7 +15,7 @@ title: L'Astronomie et ses Instruments d'Observation
 
 # L'Astronomie et ses Instruments d'Observation
 
-## Voyage à travers les télescopes et observatoires
+## Télescopes et Observatoires
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -55,7 +55,7 @@ backgroundSize: contain
 
 <div class="absolute bottom-10 left-0 right-0 text-center">
   <h2 class="text-xl font-bold bg-black bg-opacity-70 inline-block px-8 py-4 rounded-lg">
-    Saturne vue au télescope dans le jardin
+    Saturne vue à la lunette dans le jardin
   </h2>
 </div>
 
@@ -96,7 +96,6 @@ layout: two-cols
 
 - Ciel très clair et sec
 - Peu de pollution lumineuse
-- Air stable en altitude
 - 300+ nuits claires par an
 
 <br>
@@ -145,7 +144,6 @@ image: /The_joint_ESA_NASA_Hubble_Space_Telescope.jpg
 ### Découvertes majeures :
 - ✨ Âge de l'univers : 13,8 milliards d'années
 - 🌌 Des milliers de galaxies lointaines
-- 🪐 Aurores sur Jupiter et Saturne
 - 💫 Naissance et mort d'étoiles
 
 </div>
