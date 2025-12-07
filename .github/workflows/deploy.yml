@@ -34,7 +34,9 @@ jobs:
       run: npm ci
 
     - name: Build Slidev
-      run: npm run build
+      run: npx slidev build --base /samuel-astronomie/
+      env:
+        NODE_ENV: production
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
