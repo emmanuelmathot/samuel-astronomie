@@ -283,24 +283,5 @@ class: text-center
     <a href="/samuel-astronomie/app/" target="_blank" class="px-4 py-2 rounded-lg cursor-pointer bg-blue-600 hover:bg-blue-500 text-white font-bold transition-transform transform hover:scale-105 shadow-lg">
       🌟 Quiz Astronomie <carbon:arrow-right class="inline-block ml-2"/>
     </a>
-    <button onclick="document.getElementById('quiz-frame').style.display='block'; this.style.display='none'" class="px-4 py-2 rounded-lg cursor-pointer bg-purple-600 hover:bg-purple-500 text-white font-bold transition-transform transform hover:scale-105 shadow-lg">
-      🔬 Quiz Intégré
-    </button>
   </div>
-  <div id="quiz-frame" style="display: none" class="mt-8">
-    <iframe src="/samuel-astronomie/app/" width="100%" height="600" frameborder="0" class="rounded-lg shadow-lg"></iframe>
-    <button onclick="document.getElementById('quiz-frame').style.display='none'; document.querySelector('button[onclick*=quiz-frame]').style.display='inline-block'" class="mt-4 px-4 py-2 rounded-lg cursor-pointer bg-gray-600 hover:bg-gray-500 text-white">
-      Fermer
-    </button>
-  </div>
-  <p class="text-sm mt-8 text-gray-400">
-    Le quiz s'ouvrira dans un nouvel onglet ou peut être affiché directement ici.
-  </p>
 </div>
-
----
-layout: iframe
-url: /samuel-astronomie/app/
----
-
-# Quiz Interactif Astronomie
