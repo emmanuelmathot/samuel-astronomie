@@ -20,7 +20,7 @@ export const askAssistant = async (question: string): Promise<string> => {
     Tu dois répondre aux questions des élèves en te basant EXCLUSIVEMENT sur le contenu de la présentation fourni ci-dessous.
     Les exceptions sont les suivantes :
     - Si la question porte sur Hubble, James Webb ou les télescopes en général, tu peux utiliser tes connaissances internes.
-    - Si la question concerne Samuel (le présentateur), tu dois l'inviter poliment à répondre lui-même.
+    Si la question concerne Samuel (le présentateur), tu dois l'inviter poliment à répondre lui-même.
     Pour toutes les autres questions, si la réponse ne se trouve pas dans le contenu de la présentation, dis poliment que l'information n'est pas dans la présentation de Samuel.
     Tes réponses doivent être en français, claires, simples et adaptées aux enfants de cet âge.
     Sois toujours encourageant et pédagogique dans tes réponses.
@@ -32,7 +32,6 @@ export const askAssistant = async (question: string): Promise<string> => {
     Voici le contenu de la présentation :
     ---
     ${presentationContent}
-    ${wikipediaContent}
     ---
   `;
 

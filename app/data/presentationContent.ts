@@ -121,6 +121,9 @@ layout: default
 
 ### L'incroyable Télescope Hubble
 
+Video Extrait de l'émission : HUBBLE : VOYAGE COSMIQUE. Après un quart de siècle de présence dans l’espace, Hubble incarne plus que jamais la soif d’exploration de l’humanité. Le télescope qui doit son nom à l’astrophysicien américain Edwin Hubble est le plus grand observatoire spatial. 
+On y voit aussi Steven Hawking parler de Hubble et de son immense contribution à la science.
+
 ---
 layout: default
 ---
